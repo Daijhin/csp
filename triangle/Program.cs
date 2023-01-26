@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using MeuProjeto;
 
 namespace Formas
@@ -15,4 +15,4 @@ namespace Formas
             triangulo.verificarTipoTriangulo();
         }
     }
-}
+}*/
