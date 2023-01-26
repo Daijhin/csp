@@ -1,0 +1,15 @@
+C:\Users\gpns9\Desktop\csp\bin\Debug\net6.0\csp.exe
+C:\Users\gpns9\Desktop\csp\bin\Debug\net6.0\csp.deps.json
+C:\Users\gpns9\Desktop\csp\bin\Debug\net6.0\csp.runtimeconfig.json
+C:\Users\gpns9\Desktop\csp\bin\Debug\net6.0\csp.dll
+C:\Users\gpns9\Desktop\csp\bin\Debug\net6.0\csp.pdb
+C:\Users\gpns9\Desktop\csp\obj\Debug\net6.0\csp.csproj.AssemblyReference.cache
+C:\Users\gpns9\Desktop\csp\obj\Debug\net6.0\csp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpns9\Desktop\csp\obj\Debug\net6.0\csp.AssemblyInfoInputs.cache
+C:\Users\gpns9\Desktop\csp\obj\Debug\net6.0\csp.AssemblyInfo.cs
+C:\Users\gpns9\Desktop\csp\obj\Debug\net6.0\csp.csproj.CoreCompileInputs.cache
+C:\Users\gpns9\Desktop\csp\obj\Debug\net6.0\csp.dll
+C:\Users\gpns9\Desktop\csp\obj\Debug\net6.0\refint\csp.dll
+C:\Users\gpns9\Desktop\csp\obj\Debug\net6.0\csp.pdb
+C:\Users\gpns9\Desktop\csp\obj\Debug\net6.0\csp.genruntimeconfig.cache
+C:\Users\gpns9\Desktop\csp\obj\Debug\net6.0\ref\csp.dll
